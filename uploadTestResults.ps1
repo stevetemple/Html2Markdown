@@ -2,6 +2,8 @@ cd $env:APPVEYOR_BUILD_FOLDER
 
 cd test
 
+cd Html2Markdown.Test
+
 ls
 
 Write-Host "- About to upload test results"
