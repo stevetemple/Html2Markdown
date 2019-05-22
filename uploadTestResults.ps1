@@ -1,5 +1,7 @@
 cd $env:APPVEYOR_BUILD_FOLDER
 
+ls
+
 Write-Host "- About to upload test results"
 
 $wc = New-Object "System.Net.WebClient"
