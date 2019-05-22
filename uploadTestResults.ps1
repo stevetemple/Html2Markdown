@@ -1,6 +1,5 @@
 Set-Location $env:APPVEYOR_BUILD_FOLDER
-Set-Location test\Html2Markdown.Test
-
+Set-Location test\Html2Markdown.Test\TestResults
 ls
 
 Write-Host "- About to upload test results"
