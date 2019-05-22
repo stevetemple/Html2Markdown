@@ -1,6 +1,8 @@
 Set-Location $env:APPVEYOR_BUILD_FOLDER
 Set-Location test\Html2Markdown.Test
 
+ls
+
 Write-Host "- About to upload test results"
 
 $wc = New-Object "System.Net.WebClient"
