@@ -1,5 +1,7 @@
 cd $env:APPVEYOR_BUILD_FOLDER
 
+cd test
+
 ls
 
 Write-Host "- About to upload test results"
