@@ -2,5 +2,5 @@
     "MD013": {
         "tables": false
     },
-    "MD046": "consistent"
+    "code-block-style": "fenced"
 }
