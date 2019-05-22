@@ -4,6 +4,8 @@ cd test
 
 cd Html2Markdown.Test
 
+cd TestResults
+
 ls
 
 Write-Host "- About to upload test results"
