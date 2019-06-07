@@ -4,7 +4,7 @@ configuration: Release
 init:
 - git config --global core.autocrlf true
 install:
-- ps: npm install -g markdownlint-cli@0.11.0
+- ps: npm install -g markdownlint-cli
 build:
   publish_nuget: true
   verbosity: minimal
