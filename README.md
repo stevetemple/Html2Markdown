@@ -56,7 +56,7 @@ This project will currently convert the following HTML tags:-
 
     Install-Package Html2Markdown
 
-## Usage
+### Usage
 
 ### Strings
 
